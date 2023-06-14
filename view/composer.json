@@ -1,0 +1,9 @@
+{
+    "name": "dixit/view",
+    "autoload": {
+        "psr-4": {
+            "Dixit\\View\\": "src/"
+        }
+    },
+    "require": {}
+}
